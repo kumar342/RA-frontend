@@ -1,0 +1,46 @@
+.table {
+  padding: 0px 20px;
+  margin: auto;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 10px solid;
+  height: 50px;
+  background-color: white;
+  box-shadow: 10px 10px 5px whitesmoke;
+}
+.header .reservation {
+  padding: 0 20px;
+  margin-top: 5px;
+  margin-left: 45px;
+  font-size: x-large;
+}
+.btn {
+  margin-right: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
+  height: fit-content;
+}
+
+.form {
+  padding: 20px 20px;
+}
+
+.form-group {
+  display: flex;
+}
+
+.label {
+  margin-right: 20%;
+}
+.welcome-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.welcome {
+  margin-top: 9%;
+}
